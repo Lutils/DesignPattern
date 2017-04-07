@@ -57,3 +57,6 @@
 　　|--状态模式 State
 
 　　|--模板模式 Template Method
+
+
+具体参考《Android源码设计模式解析与实战》
